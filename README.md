@@ -6,6 +6,6 @@ Morgan L. Gustison, Rodrigo Munoz-Castenada, Pavel Osten, Steven Phelps. "Sexual
 https://elifesciences.org/reviewed-preprints/87029#tab-content
 
 
-Atlas adapted from Yongsoo, K et al 2017. 
+Annotation atlas adapted from Yongsoo, K et al 2017. 
 
-https://prod--epp.elifesciences.org/iiif/2/87029%2Fv1%2F550685v1_fig1.tif/full/max/0/default.jpg![image](https://github.com/rodrigomc84/PrairieVole-Atlas/assets/18578474/cf842f9c-30e5-44d1-bb15-564881260a77)
+<img width="660" alt="Screenshot 2023-08-30 at 8 38 41 PM" src="https://github.com/rodrigomc84/PrairieVole-Atlas/assets/18578474/77834c73-6f14-4947-8969-acbe1e4bd316">
