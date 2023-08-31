@@ -6,4 +6,5 @@ Morgan L. Gustison, Rodrigo Munoz-Castenada, Pavel Osten, Steven Phelps. "Sexual
 https://elifesciences.org/reviewed-preprints/87029#tab-content
 
 
-<img width="660" alt="Screenshot 2023-08-30 at 8 38 41 PM" src="https://github.com/rodrigomc84/PrairieVole-Atlas/assets/18578474/77834c73-6f14-4947-8969-acbe1e4bd316">
+
+<img width="660" alt="Figure 1" src="https://github.com/rodrigomc84/PrairieVole-Atlas/assets/18578474/0611e681-d3ec-4325-9d0b-13b0030394b5">
